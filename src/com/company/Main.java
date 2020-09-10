@@ -8,7 +8,6 @@ public class Main {
         System.out.println(ageTemp(17, -18));
         System.out.println(ageTemp(77, 33));
         System.out.println(ageTemp(45, -20));
-
     }
 
     public static String ageTemp(int age, int temp) {
@@ -21,7 +20,5 @@ public class Main {
         } else {
             return "Оставайтесь дома";
         }
-
-
     }
 }
